@@ -1,2 +1,4 @@
 python3 -m flask run --host=0.0.0.0 --port=8080
 ngrok http 8080
+
+openai.api_key = "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"
